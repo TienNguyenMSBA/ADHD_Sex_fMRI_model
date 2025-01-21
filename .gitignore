@@ -1,2 +1,6 @@
-.csv
-.xlsx
+*.csv
+*.xlsx
+*.npy
+
+TEST/
+TRAIN/
